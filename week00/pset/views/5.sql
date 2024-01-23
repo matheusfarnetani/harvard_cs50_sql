@@ -2,4 +2,4 @@
 -- of prints by Hokusai. Name the column “Maximum Contrast”. Does
 -- Hokusai’s prints most contrasting print actually have much contrast?
 SELECT MAX("contrast") AS "Maximum Contrast" FROM "views"
-WHERE "artist" = 'Hiroshige';
+WHERE "artist" = 'Hokusai';
