@@ -1,0 +1,119 @@
+Arlington|17933.78|0
+Ashland|16151.91|0.7
+Athol-Royalston|16318.64|1.4
+Leicester|16044.98|1.5
+Frontier|18888.77|1.5
+Chelmsford|17193.1|1.6
+Methuen|15902.93|1.7
+Whitman-Hanson|15774.38|2.3
+Belmont|17450.83|2.3
+Avon|18771.55|2.6
+Hoosac Valley Regional|17090.72|2.8
+Tantasqua|15178.61|3
+Ralph C Mahar|18682.74|3.1
+Palmer|17549.4|3.2
+Southbridge|19261.52|3.2
+Groton-Dunstable|18968.5|4.1
+Holbrook|16394.15|4.3
+Danvers|18348.72|4.5
+Medfield|18435.05|5.2
+Chelsea|18951.75|5.4
+Ayer Shirley School District|18363.89|5.8
+Sharon|18963.94|5.9
+Pittsfield|18360.88|6
+Stoneham|18512.78|6
+Grafton|14926.96|6.1
+Haverhill|16705.23|6.1
+Quincy|18338.85|6.1
+Everett|17044.47|6.2
+Webster|17545.84|6.2
+Brookfield|16569.41|6.3
+Swampscott|18977.66|6.4
+Orange|17388.42|6.5
+Gateway|19062.6|6.5
+Westport|17050.64|6.7
+Braintree|17464.59|6.7
+Narragansett|14990.67|6.8
+South Hadley|16069.8|7.1
+Hawlemont|18340.82|7.1
+Easthampton|15682.73|7.3
+Greater Commonwealth Virtual District|10043.6|7.4
+Holliston|15822.37|7.4
+Belchertown|15420.41|7.5
+Leominster|15178.86|7.8
+Spencer-E Brookfield|17400.14|8.1
+East Bridgewater|15155.67|8.2
+Seekonk|17750.37|8.2
+Tewksbury|19139.45|8.2
+Lynn|16351.7|8.3
+Saugus|18320.35|8.3
+Somerset|17535.11|8.7
+Shrewsbury|15200.15|8.9
+North Andover|16052.29|9
+North Adams|19460.82|9
+Taunton|16239.97|9.1
+Winthrop|16354.38|9.1
+Hopedale|16471.48|9.2
+Dartmouth|16107.25|9.5
+West Bridgewater|14595.33|9.6
+Stoughton|18530.25|9.7
+Southern Worcester County Regional Vocational School District|19363.97|9.8
+Peabody|16188.62|9.9
+New Bedford|17459.84|9.9
+West Boylston|18281.63|10
+North Reading|19035.75|10
+Walpole|17395.59|10.1
+Wakefield|18491.73|10.1
+Brockton|17067.61|10.3
+Norton|17349.52|10.3
+Ware|15904.34|10.4
+Beverly|16081.38|10.6
+Acushnet|14908.37|10.7
+Sutton|17145.45|10.7
+Medway|17973.38|10.7
+Auburn|15022.63|11
+Rockland|18816.56|11.3
+Natick|17396.77|11.4
+Blackstone-Millville|15554.2|11.6
+Worcester|17315.9|11.8
+North Attleborough|14664.85|12
+Fall River|16905|12
+Norwell|17246.65|12
+West Springfield|16081.37|12.3
+Petersham|18294.24|12.5
+Duxbury|18103.55|12.6
+Holyoke|18731.99|12.6
+Pembroke|16435.27|13.1
+Acton-Boxborough|18957.61|13.1
+Clinton|16102.46|13.2
+Fitchburg|16338.69|13.3
+Malden|16747.63|13.3
+Oxford|16137.05|13.4
+Attleboro|15329.28|13.5
+Marshfield|16526.74|13.5
+Billerica|19448.64|13.5
+Milford|16497.44|13.7
+Kingston|15394.97|13.8
+Uxbridge|17581.41|13.8
+Swansea|15361.85|13.9
+Brimfield|19459.53|13.9
+Melrose|14565.67|14.6
+Weymouth|18306.98|14.8
+Westfield|16630.53|15.1
+Southwick-Tolland-Granville Regional School District|17426.11|15.3
+Abington|16143.23|15.4
+Hampden-Wilbraham|16970.87|15.4
+Franklin|17063.18|15.4
+Reading|16616.08|15.7
+Revere|17007.49|15.7
+Marlborough|18291.7|15.8
+Farmington River Reg|19235.02|15.8
+Dracut|13660.99|16
+Gardner|15454.58|16
+Ludlow|18069.02|16
+Lowell|16639.4|16.2
+Randolph|19438.97|16.4
+Fairhaven|15287.17|16.6
+Worthington|14577.28|16.7
+Douglas|17256.6|16.7
+TEC Connections Academy Commonwealth Virtual School District|10564.26|16.8
