@@ -17,3 +17,12 @@ Relational Databases. Relationships: One-to-one, One-to-many, Many-to-many. Enti
 
 * [Examples](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week01/examples)
 * [Problem Set](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week01/psets)
+    * [Packages](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week01/pset/packages)
+    * [Dese](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week01/pset/dese)
+    * [Moneyball](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week01/pset/moneyball)
+
+## Week 2 - Designing
+Schemas. Normalizing. Data Types. Storage Classes. Type Affinities. Table Constraints: PRIMARY KEY, FOREIGN KEY. Column Constraints: CHECK, DEFAULT, NOT NULL, UNIQUE. Altering Tables: DROP TABLE, ALTER TABLE, ADD COLUMN, RENAME COLUMN, DROP COLUMN. Charlie.
+
+* [Examples](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/examples)
+* [Problem Set](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/psets)
