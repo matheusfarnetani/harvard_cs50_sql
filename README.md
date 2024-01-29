@@ -26,3 +26,6 @@ Schemas. Normalizing. Data Types. Storage Classes. Type Affinities. Table Constr
 
 * [Examples](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/examples)
 * [Problem Set](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/psets)
+    * [ATL](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/pset/atl)
+    * [Connect](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/pset/connect)
+    * [Donuts](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/pset/donuts)
