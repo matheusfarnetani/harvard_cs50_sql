@@ -29,3 +29,11 @@ Schemas. Normalizing. Data Types. Storage Classes. Type Affinities. Table Constr
     * [ATL](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/pset/atl)
     * [Connect](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/pset/connect)
     * [Donuts](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week02/pset/donuts)
+
+## Week 3 - Writing
+Create, Read, Update, Delete. INSERT INTO. CSVs. .import. DELETE FROM. Foreign Key Constraints. UPDATE. Triggers. Soft Deletions.
+
+* [Examples](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week03/examples)
+* [Problem Set](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week03/psets)
+    * [Don't Panic](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week03/pset/dont-panic)
+    * [Meteorites](https://github.com/matheusfarnetani/harvard_cs50_sql/tree/main/week03/pset/meteorites)
